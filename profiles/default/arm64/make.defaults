@@ -1,0 +1,5 @@
+CFLAGS="-O2 -pipe"
+CXXFLAGS="${CFLAGS}"
+CHOST="aarch64-unknown-linux-gnu"
+PKGDIR="/var/calculate/packages/x86_64"
+#PORTAGE_BINHOST="ftp://ftp.calculate-linux.org/calculate/grp/x86_64"
