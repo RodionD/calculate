@@ -15,4 +15,8 @@ amd64		default/amd64/20/server				stable
 #x86		default/x86/20/desktop				stable
 #x86		default/x86/20/server				stable
 
+# ARM64 Profile
+arm64   default/arm64/20/desktop      stable
+arm64   default/arm64/20/server      stable
+
 # vim: set ts=8
