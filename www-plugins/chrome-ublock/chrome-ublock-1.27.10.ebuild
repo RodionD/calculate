@@ -13,7 +13,7 @@ DESCRIPTION="An efficient blocker for Chromium"
 HOMEPAGE="https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm"
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="amd64 x86"
+KEYWORDS="amd64 x86 arm64"
 
 DEPEND=""
 RDEPEND="${DEPEND}

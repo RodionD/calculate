@@ -13,7 +13,7 @@ S="${WORKDIR}/nemo-extensions-${PV}/${PN}"
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="amd64 x86"
+KEYWORDS="amd64 x86 arm64"
 IUSE="doc"
 
 DEPEND="app-arch/file-roller

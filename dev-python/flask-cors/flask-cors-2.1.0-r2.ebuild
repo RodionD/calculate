@@ -22,7 +22,7 @@ HOMEPAGE="https://github.com/wcdolphin/flask-cors https://pypi.org/project/Flask
 
 LICENSE="MIT"
 SLOT="0"
-KEYWORDS="amd64 x86"
+KEYWORDS="amd64 x86 arm64"
 IUSE="doc test"
 RESTRICT="!test? ( test )"
 

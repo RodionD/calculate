@@ -11,7 +11,7 @@ SRC_URI="ftp://ftp.calculate-linux.org/calculate/source/${PN}/${P}.tar.bz2
 
 LICENSE="Apache-2.0"
 SLOT="0"
-KEYWORDS="amd64 x86"
+KEYWORDS="amd64 x86 arm64"
 IUSE=""
 DEPEND="net-nds/openldap"
 RDEPEND="${DEPEND}"
