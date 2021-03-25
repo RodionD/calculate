@@ -119,7 +119,7 @@ prepare_variables() {
 		SRC_URI="$SRC_URI $MODULE_URI"
 	done
 
-	IUSE="install dbus +gpg minimal pxe backup ${CALCULATE_MODULES_USE_[@]}"
+	IUSE="-install dbus +gpg minimal pxe backup ${CALCULATE_MODULES_USE_[@]}"
 	S="${WORKDIR}"
 }
 
