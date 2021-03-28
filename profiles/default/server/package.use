@@ -10,7 +10,6 @@ media-gfx/imagemagick -djvu -svg -wmf
 media-libs/imlib2 -shm
 media-video/mediainfo -wxwidgets
 media-video/vlc -svg
-sys-kernel/calculate-sources -themes
 sys-libs/glibc -gd
 x11-drivers/nvidia-drivers -compat -gtk3 -multilib -tools -uvm -wayland -X
 

@@ -154,8 +154,6 @@ RDEPEND="
 	!minimal? (
 		>=sys-apps/util-linux-2.19.1
 		net-misc/rsync
-		dev-python/sudsds[python_targets_python2_7]
-		net-libs/dslib[python_targets_python2_7]
 		>=dev-python/pyopenssl-python2-0.14
 		dev-libs/openssl
 		dev-python/m2crypto-python2

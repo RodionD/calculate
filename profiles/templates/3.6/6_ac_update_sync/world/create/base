@@ -6,20 +6,14 @@ sys-apps/calculate-utils:3
 sys-apps/openrc
 
 #?in(os_linux_pkglist,CCS)==#
-app-portage/gentoolkit
 sys-fs/eudev
 #in#
 
 #?in(os_linux_pkglist,container)==#
 media-gfx/gfxboot-themes-calculate
 net-fs/nfs-utils
-sys-boot/grub:2
-sys-boot/os-prober
 sys-fs/e2fsprogs
-virtual/linux-sources
 #?os_arch_machine==x86_64#
-sys-boot/efibootmgr
-sys-boot/gnu-efi
 app-crypt/shim-signed
 app-crypt/sbsigntools
 #os_arch_machine#
