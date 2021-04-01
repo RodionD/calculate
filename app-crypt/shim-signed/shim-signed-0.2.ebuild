@@ -12,7 +12,7 @@ SRC_URI="ftp://ftp.calculate-linux.org/calculate/source/${PN}/${P}.tgz
 
 LICENSE="as-is"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="~amd64 ~arm64"
 IUSE=""
 
 RDEPEND=""

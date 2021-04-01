@@ -11,7 +11,7 @@ HOMEPAGE="https://github.com/aircrack-ng/rtl8814au"
 SRC_URI="https://github.com/aircrack-ng/rtl8814au/archive/${COMMIT}.zip -> rtl8814au-${PV}.zip"
 
 LICENSE="GPL-2"
-KEYWORDS="~amd64"
+KEYWORDS="~amd64 ~arm64"
 
 DEPEND="virtual/linux-sources
 	app-arch/unzip"
