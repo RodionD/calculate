@@ -16,7 +16,7 @@ SRC_URI="mirror://sourceforge/dispcalgui/${MY_P}.tar.gz"
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="~amd64 ~arm64"
+KEYWORDS="~amd64"
 IUSE=""
 
 DEPEND="

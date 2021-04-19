@@ -8,7 +8,7 @@ SRC_URI="http://www.claws-mail.org/download.php?file=themes/png/claws-mail-theme
 
 LICENSE="CCPL-Attribution-ShareAlike-2.5 as-is"
 SLOT="0"
-KEYWORDS="alpha amd64 ppc ppc64 x86 ~arm64"
+KEYWORDS="alpha amd64 ppc ppc64 x86"
 IUSE=""
 
 RDEPEND="mail-client/claws-mail"

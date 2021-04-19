@@ -13,7 +13,7 @@ DESCRIPTION="Browser extension for Nextcloud Bookmarks"
 HOMEPAGE="https://chrome.google.com/webstore/detail/gmmpjoepfelkmeedfkfkadgkhholibko"
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 
 DEPEND=""
 

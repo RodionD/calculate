@@ -12,7 +12,7 @@ SRC_URI="https://github.com/synrc/fs/archive/${PV}.tar.gz
 
 LICENSE="ISC"
 SLOT="0"
-KEYWORDS="~amd64 ~x86 ~arm64"
+KEYWORDS="~amd64 ~x86"
 IUSE="test"
 
 RDEPEND=">=dev-erlang/fast_xml-1.1.21

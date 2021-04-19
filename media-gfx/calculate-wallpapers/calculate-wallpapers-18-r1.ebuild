@@ -9,7 +9,7 @@ HOMEPAGE="http://www.calculate-linux.org/packages/media-gfx/calculate-wallpapers
 
 LICENSE="Apache-2.0"
 SLOT="0"
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 VERSION_IUSE="CL11 CL12 CL13 CL14 CL15 CL17"
 IUSE="+CL11 +CL12 +CL13 +CL14 +CL15 +CL17"
 

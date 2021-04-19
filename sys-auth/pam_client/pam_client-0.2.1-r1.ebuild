@@ -2,6 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
 
+EAPI=7
 inherit pam
 
 DESCRIPTION="Module of the waiting client daemon"
@@ -11,7 +12,7 @@ SRC_URI="ftp://ftp.calculate-linux.org/calculate/source/${PN}/${P}.tar.bz2
 
 LICENSE="Apache-2.0"
 SLOT="0"
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 IUSE=""
 DEPEND="net-nds/openldap"
 RDEPEND="${DEPEND}"

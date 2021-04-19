@@ -18,7 +18,7 @@ DESCRIPTION="The package of Python milters that wraps the C libmilter library."
 HOMEPAGE="http://spidey2.bmsi.com/pymilter/"
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 IUSE=""
 DEPEND="
 	!dev-python/pymilter[python_targets_python2_7]

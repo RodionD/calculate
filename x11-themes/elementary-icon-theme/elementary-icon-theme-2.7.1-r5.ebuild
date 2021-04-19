@@ -14,7 +14,7 @@ RESTRICT="binchecks strip"
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 
 DEPEND=""
 RDEPEND="${DEPEND}

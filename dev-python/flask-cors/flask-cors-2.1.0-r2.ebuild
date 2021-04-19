@@ -1,7 +1,7 @@
 # Copyright 1999-2020 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=5
+EAPI=7
 PYTHON_COMPAT=( python3_{7,8} )
 
 inherit distutils-r1
@@ -22,7 +22,7 @@ HOMEPAGE="https://github.com/wcdolphin/flask-cors https://pypi.org/project/Flask
 
 LICENSE="MIT"
 SLOT="0"
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 IUSE="doc test"
 RESTRICT="!test? ( test )"
 

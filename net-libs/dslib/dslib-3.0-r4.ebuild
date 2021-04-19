@@ -14,7 +14,7 @@ SRC_URI="http://www.nic.cz/public_media/datove_schranky/releases//src/${P}.tar.g
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 IUSE=""
 
 RDEPEND="

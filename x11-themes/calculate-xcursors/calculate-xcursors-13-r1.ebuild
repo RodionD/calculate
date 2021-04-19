@@ -7,7 +7,7 @@ HOMEPAGE="http://www.calculate-linux.org/packages/x11-themes/calculate-xcursors"
 SRC_URI="ftp://ftp.calculate-linux.org/calculate/source/${PN}/${P}.tar.bz2
 	http://mirror.yandex.ru/calculate/source/${PN}/${P}.tar.bz2"
 
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 IUSE=""
 SLOT="0"
 

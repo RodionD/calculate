@@ -13,7 +13,7 @@ DESCRIPTION="Passman - The password manager for NextCloud / ownCloud"
 HOMEPAGE="https://chrome.google.com/webstore/detail/hlpjhlifkgmoibhollggngbbhbejecph"
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 
 DEPEND=""
 

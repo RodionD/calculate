@@ -15,7 +15,7 @@ done
 IUSE="${CODECS}"
 LICENSE="CC-BY-SA-3.0"
 SLOT="0"
-KEYWORDS="amd64 ~ppc x86 ~arm64"
+KEYWORDS="amd64 ~ppc x86"
 
 DEPEND=">=net-misc/asterisk-1.4"
 

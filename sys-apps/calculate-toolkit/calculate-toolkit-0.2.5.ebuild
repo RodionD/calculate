@@ -11,7 +11,7 @@ SRC_URI="ftp://ftp.calculate-linux.org/calculate/source/${PN}/${P}.tar.bz2
 
 LICENSE="Apache-2.0"
 SLOT="0"
-KEYWORDS="x86 amd64 arm64"
+KEYWORDS="x86 amd64"
 
 RDEPEND=">=sys-apps/calculate-utils-3.6
 	app-arch/xz-utils"

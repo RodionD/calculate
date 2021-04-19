@@ -9,7 +9,7 @@ SRC_URI="ftp://ftp.calculate-linux.org/calculate/source/openpgp-keys/calculate-r
 
 LICENSE="public-domain"
 SLOT="0"
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 IUSE="test"
 
 S=${WORKDIR}

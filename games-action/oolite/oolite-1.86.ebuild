@@ -16,7 +16,7 @@ SRC_URI="https://github.com/OoliteProject/oolite/archive/${PV}.tar.gz -> ${P}.ta
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="~amd64 ~x86 ~arm64"
+KEYWORDS="~amd64 ~x86"
 IUSE="${IUSE} debug"
 
 RDEPEND="virtual/opengl

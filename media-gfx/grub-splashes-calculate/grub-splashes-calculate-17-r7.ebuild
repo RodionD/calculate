@@ -9,7 +9,7 @@ HOMEPAGE="http://www.calculate-linux.org/packages/media-gfx/grub-splashes-calcul
 
 LICENSE="Apache-2.0"
 SLOT="0"
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 IUSE=""
 
 SRC_URI="ftp://ftp.calculate-linux.org/calculate/themes/calculate/grub-17-r1.jpg -> ${P}.jpg

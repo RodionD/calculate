@@ -14,7 +14,7 @@ DESCRIPTION="An efficient blocker for Firefox"
 HOMEPAGE="https://github.com/gorhill/uBlock"
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 
 DEPEND=""
 RDEPEND="${DEPEND}"

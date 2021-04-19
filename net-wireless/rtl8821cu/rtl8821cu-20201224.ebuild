@@ -11,7 +11,7 @@ HOMEPAGE="https://github.com/brektrou/rtl8821CU"
 SRC_URI="https://github.com/brektrou/rtl8821CU/archive/${COMMIT}.tar.gz -> rtl8821cu-${PV}.tar.gz"
 
 LICENSE="GPL-2"
-KEYWORDS="~amd64 ~arm64"
+KEYWORDS="~amd64"
 
 DEPEND="virtual/linux-sources"
 

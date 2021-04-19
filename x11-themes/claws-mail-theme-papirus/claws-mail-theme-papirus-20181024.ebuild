@@ -10,7 +10,7 @@ SRC_URI="${HOMEPAGE}/archive/${COMMIT}.zip -> ${P}.zip"
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="amd64 x86 arm64"
+KEYWORDS="amd64 x86"
 IUSE=""
 
 RDEPEND="mail-client/claws-mail"

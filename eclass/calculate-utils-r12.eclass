@@ -119,7 +119,7 @@ prepare_variables() {
 		SRC_URI="$SRC_URI $MODULE_URI"
 	done
 
-	IUSE="-install dbus +gpg minimal pxe backup ${CALCULATE_MODULES_USE_[@]}"
+	IUSE="+install dbus +gpg minimal pxe backup ${CALCULATE_MODULES_USE_[@]}"
 	S="${WORKDIR}"
 }
 
@@ -154,6 +154,8 @@ RDEPEND="
 	!minimal? (
 		>=sys-apps/util-linux-2.19.1
 		net-misc/rsync
+		dev-python/sudsds[python_targets_python2_7]
+		net-libs/dslib[python_targets_python2_7]
 		>=dev-python/pyopenssl-python2-0.14
 		dev-libs/openssl
 		dev-python/m2crypto-python2

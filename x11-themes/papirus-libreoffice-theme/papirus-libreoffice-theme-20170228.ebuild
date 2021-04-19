@@ -12,7 +12,7 @@ if [[ ${PV} == 99999999 ]];then
 	EGIT_REPO_URI="https://github.com/PapirusDevelopmentTeam/${PN}.git"
 else
 	SRC_URI="https://github.com/PapirusDevelopmentTeam/${PN}/archive/${PV}.tar.gz -> ${P}.tar.gz"
-	KEYWORDS="x86 amd64 arm64"
+	KEYWORDS="x86 amd64"
 fi
 
 LICENSE="GPL-3"
