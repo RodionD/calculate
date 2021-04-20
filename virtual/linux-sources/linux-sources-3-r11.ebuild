@@ -33,4 +33,5 @@ RDEPEND="|| (
 		sys-kernel/aufs-sources
 		sys-kernel/raspberrypi-sources
 		sys-kernel/fake-sources
+		sys-kernel/raspberrypi-sources
 	)"
