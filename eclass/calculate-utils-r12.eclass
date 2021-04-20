@@ -154,7 +154,10 @@ RDEPEND="
 	!minimal? (
 		>=sys-apps/util-linux-2.19.1
 		net-misc/rsync
+<<<<<<< HEAD
 		dev-python/sudsds[python_targets_python2_7]
+=======
+>>>>>>> ff0c9b7debbbdf27946790e55030a85643ac0305
 		>=dev-python/pyopenssl-python2-0.14
 		dev-libs/openssl
 		dev-python/m2crypto-python2
